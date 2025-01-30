@@ -1,1 +1,4 @@
 # Coding Terms Discussed
+
+- Computer
+- 
