@@ -7,6 +7,3 @@
 - Version Control
 - Git
 - Repository
-- Commit
-- Markup
-- Markdown
